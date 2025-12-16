@@ -1,13 +1,9 @@
-# Hi, I'm Nathan
+Hi, I’m Nathan 👋  
+I’m a software developer and a Computer Science & Mathematics undergraduate at the University of Bath.
 
-**Software Developer | Computer Science & Mathematics Undergraduate**  
-🎓 University of Bath (MComp Hons, 2024–2029) - *Predicted First Class*
+I enjoy building well-structured software, solving algorithmic problems, and applying mathematical reasoning to machine learning and AI systems.
 
----
-
-## 👋 About Me
-
-I am a Computer Science and Mathematics undergraduate with strong experience in **app development**, **algorithmic problem-solving**, and **competitive programming**. I enjoy working at the intersection of **theory and practice**, applying rigorous mathematical reasoning to real-world software and AI systems.
+I’ve led frontend development in university software engineering projects, competed in national programming contests, and co-founded a startup developing production-ready applications used by international clients.
 
 ---
 
@@ -30,66 +26,14 @@ REST APIs, Algolia
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-
-**Concepts**
-- Data structures & algorithms  
-- Machine learning fundamentals  
-- Functional, imperative, and object-oriented paradigms  
-- Agile / Scrum development workflows
-
 ---
+## 🌟 A Bit About Me
 
-## 🚀 Selected Projects & Experience
-
-### **MET** — Co-founder & Full-stack Developer (2024–2025)
-Startup focused on transforming **B2B networking and recruitment** across Japan, the EU, and the UK.
-
-- Developed and maintained Android and web platforms using **React / React Native**, **TypeScript**, and **Firebase**
-- Implemented scalable search and discovery using **Algolia**
-- Worked directly with international clients and stakeholders
-- Contributed across the stack in a fast-paced startup environment
-
-### **Personal University Management App**
-React Native application for managing:
-- Websites, timetables, pricing, and grocery inventory  
-- Integrated **biometric authentication**, **Firebase authentication**, and **cloud storage**
-- Emphasis on clean UI design and secure local persistence
-
-### **Machine Learning & AI Projects**
-- Designed and implemented a **neural network** using TensorFlow, NumPy, and Pandas  
-- Analysed optimisation techniques such as gradient descent and loss minimisation from a mathematical perspective  
-- Built an **LLM-powered Discord bot** using Groq’s API for personalised responses and exam support
-
-### **Competitive Programming**
-- 🥈 **2nd place**, ARM Competitive Coding Competition 2024 (36 teams)
-- Competed in **UKIEPC 2024 & 2025**, collaborating under strict time constraints against ~250 teams from 28 universities
-
----
-
-## 📚 Academic Background
-
-**University of Bath — MComp Computer Science & Mathematics**
-
-**Year 1 Modules**
-- Linear Algebra  
-- Probability & Statistics  
-- Sequences & Functions  
-- Artificial Intelligence  
-- Programming  
-
-**Year 2 Modules**
-- Advanced Linear Algebra  
-- Machine Learning  
-- Software Engineering  
-- Statistics  
-- Algorithms and Complexity
-- Groups and Rings
-- 
-
-**Group Coursework**
-- Lead Front-End Developer for a year-long team project
-- Led and coordinated multiple developers, designing intuitive, user-centred UI/UX
-- Defined frontend architecture, reusable component structure, and integrated the frontend with backend services
+- 🌊 Enthusiast of water sports, including kayaking, sailing, canoeing, and paddleboarding  
+- 🛟 Joint Chair of a non-profit watersports organisation affiliated with the Scouts Association  
+- 🥋 Taekwondo International Champion
+- 🌍 Enjoy travelling, hiking, skiing, ice skating, and playing video games
+- 🎻 Violinist and pianist
 
 ---
 
